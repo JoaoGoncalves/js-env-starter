@@ -1,5 +1,5 @@
 export const person = {
-    name: "Joao Silva",
+    name: "Joao Gorila",
     location: "Lisboa",
     age: 30,
 }
